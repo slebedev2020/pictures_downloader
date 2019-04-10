@@ -27,3 +27,15 @@ size:
 store_path:
 	Путь для сохранения
 	Например, C:\pictures (без кавычек и т.п.)
+	
+	
+Пример:
+[Search]
+amount = 2
+sections = {
+     "Красная площадь" : 2,
+     "Самара" : 3
+     }
+size = large
+color = red
+store_path = C:\pictures
