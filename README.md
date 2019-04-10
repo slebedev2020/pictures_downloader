@@ -29,7 +29,7 @@ store_path:
 	Например, C:\pictures (без кавычек и т.п.)
 	
 	
-Пример: \n
+Пример:
 [Search]
 amount = 2
 sections = {
